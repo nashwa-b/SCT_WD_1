@@ -6,14 +6,14 @@ A modern and responsive landing page featuring an interactive navigation menu an
 
 ## Features
 
--  **Fixed Navigation Menu**  
+  **Fixed Navigation Menu**  
   - Always visible on top  
   - Changes style on **scroll** and on **hover**
--  **Responsive Design**  
+  **Responsive Design**  
   - Adapts across desktop, tablet, and mobile screens
--  **Smooth Styling and Transitions**  
+  **Smooth Styling and Transitions**  
   - Clean layout with elegant animations
--  **Interactive Behavior**  
+  **Interactive Behavior**  
   - Scroll detection and dynamic styling via JavaScript
 
 ---
@@ -37,10 +37,10 @@ A modern and responsive landing page featuring an interactive navigation menu an
  🛠 Project Structure
    /Responsive Landing Page
    
-├── index.html         # Main HTML page
-├── style.css          # Stylesheet
-├── script.js          # JavaScript for interaction
+├── index.html         
+├── style.css          
+├── script.js          
 
- Author
+##  Author
 Nashwa B
 GitHub: nashwa-b
