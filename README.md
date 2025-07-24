@@ -9,10 +9,13 @@ A modern and responsive landing page featuring an interactive navigation menu an
   **Fixed Navigation Menu**  
   - Always visible on top  
   - Changes style on **scroll** and on **hover**
-  **Responsive Design**  
+
+  **Responsive Design** 
   - Adapts across desktop, tablet, and mobile screens
+
   **Smooth Styling and Transitions**  
   - Clean layout with elegant animations
+
   **Interactive Behavior**  
   - Scroll detection and dynamic styling via JavaScript
 
