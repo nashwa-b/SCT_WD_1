@@ -45,5 +45,7 @@ A modern and responsive landing page featuring an interactive navigation menu an
 ├── script.js          
 
 ##  Author
-Nashwa B
-GitHub: nashwa-b
+
+ **Nashwa B**  
+GitHub: [@nashwa-b](https://github.com/nashwa-b)
+LinkedIn: [Nashwa B](https://www.linkedin.com/in/nashwab)
